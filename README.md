@@ -1,6 +1,12 @@
+<div align="center">
+
 # RIMAC Frontend Challenge
 
-Este proyecto es una prueba de postulación organizada por la empresa Softtek. El objetivo es desarrollar una aplicación frontend utilizando tecnologías modernas y siguiendo buenas prácticas de desarrollo.
+![Formulario de Inicio](src/assets/img/incio.png)
+
+Este proyecto es una prueba tecnica organizada por la empresa Softtek. El objetivo es desarrollar una aplicación frontend utilizando tecnologías modernas y siguiendo buenas prácticas de desarrollo.
+
+</div>
 
 ## Tabla de Contenidos
 
