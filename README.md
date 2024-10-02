@@ -99,20 +99,8 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 La aplicación cuenta con tres secciones principales:
 
-### 1. Inicio - Formulario
+1. Inicio - Formulario: En la pantalla de inicio, encontrarás un formulario donde debes ingresar tu **DNI/CE**, **Número de Documento** y **Celular**. Estos campos son obligatorios y se validan al enviar el formulario.
 
-En la pantalla de inicio, encontrarás un formulario donde debes ingresar tu **DNI/CE**, **Número de Documento** y **Celular**. Estos campos son obligatorios y se validan al enviar el formulario.
+2. Planes - Selección de Planes: Una vez que completes el formulario, serás dirigido a la sección de **Planes**. Aquí podrás elegir entre diferentes opciones de planes.
 
-![Formulario de Inicio](src/assets/img/formulario-inicio.png)
-
-### 2. Planes - Selección de Planes
-
-Una vez que completes el formulario, serás dirigido a la sección de **Planes**. Aquí podrás elegir entre diferentes opciones de planes.
-
-![Selección de Planes](src/assets/img/seleccion-planes.png)
-
-### 3. Resumen - Resumen de Información
-
-En la página de resumen, podrás ver toda la información ingresada y los detalles del plan elegido:
-
-![Resumen de Información](src/assets/img/resumen.png)
+3. Resumen - Resumen de Información: En la página de resumen, podrás ver toda la información ingresada y los detalles del plan elegido:
