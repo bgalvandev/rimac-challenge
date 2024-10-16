@@ -1,6 +1,6 @@
 <div align="center">
 
-# RIMAC Challenge
+# RIMAC Frontend Challenge
 
 ![Formulario de Inicio](src/assets/img/incio.png)
 
